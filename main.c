@@ -7,5 +7,7 @@ int main (void){
 
 	printf("\nagr to no Ramão novo\n");
 
+	printf("\nto no Master novamente\n");
+
 	return 0;
 }
